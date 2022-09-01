@@ -14,3 +14,4 @@ a script that adds execute permission to all subdirectories of the current direc
  2 files changed, 3 insertions(+)
  create mode 100755 0x01-shell_permissions/11-directories_permissions
 a script that creates a directory called my_dir with permissions 751 in the working directory.
+a script that changes the group owner to school for the file hello
