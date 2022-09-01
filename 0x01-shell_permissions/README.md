@@ -8,3 +8,4 @@ creates an empty file called hello
  a script that sets the permission to the file hello as follows: no permission at allno permission at allusers: all the permissions
 script containing command to give permission to other excluding the group and thegroup and the owner
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:2
+Write a script that sets the mode of the file hello the same as olleh’s mode
