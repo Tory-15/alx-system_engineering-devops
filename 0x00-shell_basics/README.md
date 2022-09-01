@@ -13,3 +13,4 @@ write a script that lists all files
 a script that prints the type of the file named iamafile
 createa symbolic link
 Create a script that copies all the HTML files
+ a script that moves all files beginning with an uppercase letter
