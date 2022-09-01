@@ -13,3 +13,4 @@ a script that adds execute permission to all subdirectories of the current direc
 [master c67fb30] a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
  2 files changed, 3 insertions(+)
  create mode 100755 0x01-shell_permissions/11-directories_permissions
+a script that creates a directory called my_dir with permissions 751 in the working directory.
